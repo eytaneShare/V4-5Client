@@ -1,0 +1,14 @@
+.header {
+    
+  
+    /* top: 0px !important; */
+    height:40px ;
+    background-color: red;
+    
+}
+.title{
+    display: inline
+}
+.logo {
+    width: 50px;
+}
